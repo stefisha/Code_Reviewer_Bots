@@ -35,3 +35,4 @@ The `examples` folder contains sample code that you can use to test the code rev
 Both projects require an API key, which should be stored in a `.env` file in the respective project directories.
 
 ```plaintext
+OPENAI_API_KEY=your_key_here
